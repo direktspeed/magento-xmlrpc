@@ -2,7 +2,7 @@
 
 This wrapper lets you talk to Magento via XML-RPC.
 
-It is a minimally modified version of `magento` and `magento-api`, which incorrectly advertise as being SOAP clients.
+It is a minimally modified version of [`magento`](https://www.npmjs.com/package/magento) and [`magento-api`](https://www.npmjs.com/package/magento-api), which incorrectly advertise as being SOAP clients.
 
 ## Installation
 
