@@ -45,7 +45,7 @@ var resources = {
 var mandatory = {};
 var configDefaults = {
   host: mandatory,
-  port: 80,
+  port: 443,
   path: mandatory,
   login: mandatory,
   pass: mandatory,
