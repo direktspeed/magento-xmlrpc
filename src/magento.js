@@ -55,7 +55,7 @@ var configDefaults = {
 /**
   Constructor method
 
-  @param {Object} config Configuration for magento soap api
+  @param {Object} config Configuration for magento xmlrpc api
   @param {String} config.path API path, most likely '/api/xmlrpc/'
   @param {Number} [config.port] API port, defaults to 80
   @param {String} config.host Host for API
