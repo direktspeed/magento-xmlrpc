@@ -14,7 +14,7 @@ It is a minimally modified version of `magento` and `magento-api`, which incorre
 var MagentoAPI = require('magento-xmlrpc');
 var magento = new MagentoAPI({
   host: 'your.host',
-  port: 80,
+  port: 443,
   path: '/api/xmlrpc/',
   login: 'your_username',
   pass: 'your_pass'
