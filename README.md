@@ -1,6 +1,6 @@
-# Magento SOAP API Wrapper
+# Magento XML-RPC API Wrapper
 
-This wrapper lets you talk to Magento via SOAP.
+This wrapper lets you talk to Magento via XML-RPC.
 
 ## Installation
 
@@ -9,7 +9,7 @@ This wrapper lets you talk to Magento via SOAP.
 ## Usage
 
 ```js
-var MagentoAPI = require('magento-api');
+var MagentoAPI = require('magento-xmlrpc');
 var magento = new MagentoAPI({
   host: 'your.host',
   port: 80,

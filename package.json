@@ -1,32 +1,34 @@
 {
-  "name": "magento-api",
-  "author": "Ian Graham <ian.graham@ice.com>",
-  "description": "Magento SOAP API wrapper for Node.js",
-  "version": "0.2.2",
+  "name": "magento-xmlrpc",
+  "author": "Steve Wolfe <stevenwolfe@gmail.com>",
+  "description": "Magento XML-RPC API wrapper for Node.js",
+  "version": "0.3.0",
   "main": "./src/magento",
-  "contributors": [
-    {
-      "name": "Tim Marshall",
-      "email": "timothyjmarshall@gmail.com"
-    },
-    {
-      "name": "Ian Graham",
-      "email": "ian.graham@ice.com"
-    }
-  ],
+  "contributors": [{
+    "name": "Tim Marshall",
+    "email": "timothyjmarshall@gmail.com"
+  }, {
+    "name": "Ian Graham",
+    "email": "ian.graham@ice.com"
+  }, {
+    "name": "Steve Wolfe",
+    "email": "stevenwolfe@gmail.com"
+  }],
   "engines": {
     "node": ">=0.10.20"
   },
-  "dependencies" : {
+  "dependencies": {
     "request": "2.34.0",
     "xmlrpc": "1.2.0"
   },
   "keywords": [
     "magento",
-    "soap",
+    "magento-api",
+    "xmlrpc",
+    "xml-rpc",
     "api",
     "xml"
   ],
-  "repository": "git://bitbucket.org/icecom//magentoapi",
+  "repository": "",
   "license": "MIT"
 }
