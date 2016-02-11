@@ -1,8 +1,10 @@
 {
   "name": "magento-xmlrpc",
   "author": "Steve Wolfe <stevenwolfe@gmail.com>",
+  "homepage":"http://lobot-io.github.io/magento-xmlrpc/",
   "description": "Magento XML-RPC API wrapper for Node.js",
-  "version": "0.3.1",
+  "man": "./MANUAL.md"
+  "version": "0.3.2",
   "main": "./src/magento",
   "contributors": [{
     "name": "Tim Marshall",
@@ -29,6 +31,6 @@
     "api",
     "xml"
   ],
-  "repository": "",
+  "repository": "lobot-io/magento-xmlrpc",
   "license": "MIT"
 }
