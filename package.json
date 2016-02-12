@@ -4,7 +4,7 @@
   "homepage": "http://lobot-io.github.io/magento-xmlrpc/",
   "description": "Magento XML-RPC API wrapper for Node.js",
   "man": "./MANUAL.md",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "main": "./src/magento",
   "contributors": [{
     "name": "Tim Marshall",
