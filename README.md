@@ -41,4 +41,4 @@ All of the API methods take an object of params as the first argument, and a cal
 Or, if no params are sent, just a callback as the first argument.
 
 ## Methods
-[Read the manual on Github](https://github.com/lobot-io/magento-xmlrpc/blob/master/MANUAL.md)
+[Read the manual on Github](https://github.com/direktspeed/magento19-xmlrpc/blob/master/MANUAL.md)
