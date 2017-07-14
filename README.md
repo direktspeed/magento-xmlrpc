@@ -1,5 +1,7 @@
 # Magento XML-RPC API Wrapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/magento19-xmlrpc.svg)](https://greenkeeper.io/)
+
 This wrapper lets you talk to Magento via XML-RPC.
 
 It is a minimally modified version of [`magento`](https://www.npmjs.com/package/magento) and [`magento-api`](https://www.npmjs.com/package/magento-api), which incorrectly advertise as being SOAP clients.
